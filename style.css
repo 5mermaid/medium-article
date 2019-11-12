@@ -1,0 +1,52 @@
+
+.banner {
+    background-image: url(https://source.unsplash.com/random/1000x500);
+    background-size: cover;
+    padding: 90px 0
+  }
+
+.container {
+    width: 700px;
+    margin: 50px auto;
+}
+#opacity{
+    color:white;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: lighter;
+    opacity: 0.8;
+}
+
+
+.banner h1{
+  color: white;
+  font-size: 64px;
+  font-family: Oswald;
+  font-weight: 600
+}
+
+h2 {
+  color: #777749;
+  font-size: 32px;
+  font-family: Oswald;
+  font-weight: 400
+}
+
+p {
+  color: #495345;
+  font-size: 25px;
+  font-family: Roboto Condensed;
+  font-weight: 400
+}
+
+a {
+  color: #61756D;
+  font-size: 25px;
+  font-family: Roboto Condensed;
+  font-weight: 700;
+  text-decoration: none
+}
+
+ a:hover {
+  color:#DE9400;
+ }
